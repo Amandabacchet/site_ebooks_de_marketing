@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    body {
+      color: aliceblue;
+      background-color:#101728;
+    }
+    h1 {
+        text-align: center;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 5%;
+        font-family: 'Roboto', sem serifa;
+        font-family: 'Unbounded', cursiva;
+    }
+    h3{
+        text-align: center;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 1%; 
+    }
+    .java{
+        margin-top: 8%;
+    }
+    @media (max-width:700px){
+       .java{
+        margin-top: 18%;
+       }
+  
+      }
